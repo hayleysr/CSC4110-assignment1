@@ -1,3 +1,3 @@
-# CSC4110-assignment1
+# Github and git
 ## Hayley Spellicy-Ryan
 ### hk3086
