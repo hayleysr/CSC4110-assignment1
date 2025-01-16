@@ -1,4 +1,6 @@
-// Simple C++ program to display "Hello World" 
+// Simple C++ program to display "Hello World"
+//Author: Hayley Spellicy-Ryan <spellicyryan.hayley@gmail.com>
+ 
 // Header file for input output functions 
 #include<iostream>  
   
